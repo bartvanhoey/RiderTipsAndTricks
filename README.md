@@ -5,4 +5,5 @@
 | Shortcut Key                 | Action                                                                                   |
 | ---------------------------- | -----------------------------------------------------------------------------------------|
 | `ALT+SHIFT+ARROW UP/DOWN`    | Moves (selected) line/lines up or down
-| `CTRL+D`                     | Duplicate line
+| `CTRL+D`                     | Duplicate Line
+| `CTRL+D, O`                  | Move To Folder
