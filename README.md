@@ -19,6 +19,7 @@
 | `CTRL+SHIFT+T`               | Find File
 | `CTRL+W`                     | Extend Selection
 | `CTRL+R,M`                   | Extract Method
+| `CTRL+U,L`                   | Run All Tests from Solution
 
 
 
