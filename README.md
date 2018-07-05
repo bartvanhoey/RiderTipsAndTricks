@@ -18,6 +18,7 @@
 | `Double SHIFT (CTRL+T)`      | Search Everywhere
 | `CTRL+SHIFT+T`               | Find File
 | `CTRL+W`                     | Extend Selection
+| `CTRL+R,M`                   | Extract Method
 
 
 
