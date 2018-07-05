@@ -1,6 +1,6 @@
 # Rider Tips & Tricks
 
-## My Favourite Shortcut Keys (Keymap Visual Studio)
+## My Favourite Rider Shortcut Keys (Keymap Visual Studio)
 
 | Shortcut Key                 | Action                                         |          
 |------------------------------|------------------------------------------------|
