@@ -23,8 +23,4 @@
 | `CTRL+R,V`                   | Introduce Variable...
 | `CTRL+R,F`                   | Introduce Field...
 | `CTRL+R,R`                   | Rename
-
-
-
-
-
+| `CTRL+ALT+K`                 | Commit Changes
