@@ -6,6 +6,7 @@
 |------------------------------|------------------------------------------------|
 | `ALT+SHIFT+ARROW UP/DOWN`    | Moves (selected) line/lines up or down
 | `CTRL+D`                     | Duplicate Line (no need to select line)
+| `CTRL+L`                     | Remove Line (no need to select line)
 | `CTRL+D, O`                  | Move To Folder
 | `SHIFT+ALT+S`                | Locate in Solution Explorer
 | `CTRL+ALT+S`                 | Open Settings Window
