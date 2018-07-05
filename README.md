@@ -20,6 +20,9 @@
 | `CTRL+W`                     | Extend Selection
 | `CTRL+R,M`                   | Extract Method
 | `CTRL+U,L`                   | Run All Tests from Solution
+| `CTRL+R,V`                   | Introduce Variable...
+| `CTRL+R,F`                   | Introduce Field...
+| `CTRL+R,R`                   | Rename
 
 
 
