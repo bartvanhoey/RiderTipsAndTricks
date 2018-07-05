@@ -25,3 +25,4 @@
 | `CTRL+R,R`                   | Rename
 | `CTRL+ALT+K`                 | Commit Changes
 | `CTRL+ALT+1`                 | Show/Hide Embedded Console Terminal
+| `CTRL+SHIFT+B`               | Build Solution
