@@ -12,7 +12,7 @@
 | `CTRL+ALT+S`                 | Open Settings Window
 | `CTRL+SHIFT+R`               | Refactor this
 | `ALT ARROW DOWN/PREVIOUS`    | Go to Next Method/Previous Method
-| `CTRL+,`                     | Open Recent Files Windoz
+| `CTRL+,`                     | Open Recent Files Window
 | `CTRL+-`                     | Back
 | `CTRL+SHIFT+-`               | Forward
 | `Double SHIFT (CTRL+T)`      | Search Everywhere
