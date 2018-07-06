@@ -26,4 +26,4 @@
 | `CTRL+ALT+K`                 | Commit Changes
 | `CTRL+ALT+1`                 | Show/Hide Embedded Console Terminal
 | `CTRL+SHIFT+B`               | Build Solution
-| `CTRL+R+I`                   | Inline Variable
+| `CTRL+R,I`                   | Inline Variable
