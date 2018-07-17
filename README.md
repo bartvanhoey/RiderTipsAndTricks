@@ -7,7 +7,7 @@
 | `ALT+SHIFT+ARROW UP/DOWN`    | Moves (selected) line/lines up or down
 | `CTRL+D`                     | Duplicate Line (no need to select line)
 | `CTRL+L`                     | Remove Line (no need to select line)
-| `CTRL+D,O`                  | Move To Folder
+| `CTRL+D,O`                   | Move To Folder
 | `SHIFT+ALT+S`                | Locate in Solution Explorer
 | `CTRL+ALT+S`                 | Open Settings Window
 | `CTRL+SHIFT+R`               | Refactor this
@@ -28,3 +28,5 @@
 | `CTRL+SHIFT+B`               | Build Solution
 | `CTRL+R,I`                   | Inline Variable
 | `CTRL+K,D`                   | Reformat Code
+| `CTRL+K,C`                   | Comment/uncomment Code
+| `F9`                         | Toggle Breakpoint
