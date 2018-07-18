@@ -10,7 +10,7 @@
 | `CTRL+D,O`                   | Move To Folder
 | `SHIFT+ALT+S`                | Locate in Solution Explorer
 | `CTRL+ALT+S`                 | Open Settings Window
-| `CTRL+SHIFT+R`               | Refactor this
+| `CTRL+SHIFT+R`               | Refactor this...
 | `ALT ARROW DOWN/PREVIOUS`    | Go to Next Method/Previous Method
 | `CTRL+,`                     | Open Recent Files Window
 | `CTRL+-`                     | Back
@@ -30,3 +30,7 @@
 | `CTRL+K,D`                   | Reformat Code
 | `CTRL+K,C`                   | Comment/uncomment Code
 | `F9`                         | Toggle Breakpoint
+| `CTRL+SHIFT+V`               | Paste from History...
+| `ALT+8`                      | Show Unit Tests Window
+| `CTRL+U,L`                   | Run All Tests from Solution
+| `CTRL+U,S`                   | Stop Unit Tests Execution
