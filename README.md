@@ -31,6 +31,10 @@
 | `CTRL+K,C`                   | Comment/uncomment Code
 | `F9`                         | Toggle Breakpoint
 | `CTRL+SHIFT+V`               | Paste from History...
-| `ALT+8`                      | Show Unit Tests Window
+| `ALT+8`                      | Show/Hide Unit Tests Window
+| `ALT+7`                      | Show/Hide Nuget Packages Window
 | `CTRL+U,L`                   | Run All Tests from Solution
 | `CTRL+U,S`                   | Stop Unit Tests Execution
+
+
+## My Favourite Rider Postfix Templates
