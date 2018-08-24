@@ -28,4 +28,3 @@
 | `CTRL+SHIFT+B`               | Build Solution
 | `CTRL+R,I`                   | Inline Variable
 | `CTRL+K,D`                   | Reformat Code
-| `CTRL+E,U`                   | Surround with Live Template
