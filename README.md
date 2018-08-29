@@ -36,6 +36,6 @@
 | `CTRL+U,L`                   | Run All Tests from Solution
 | `CTRL+U,S`                   | Stop Unit Tests Execution
 | `CTRL+E,U`                   | Surround with Live Template
-
+| `CTRL+ALT,T`                 | Surround with...
 
 ## My Favourite Rider Postfix Templates
