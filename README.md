@@ -2,7 +2,7 @@
 
 ## My Favourite Rider Shortcut Keys (Keymap Visual Studio)
 
-| Shortcut Key                 | Action                                         |          
+| Shortcut Key                 | Action                                         |
 |------------------------------|------------------------------------------------|
 | `ALT+SHIFT+ARROW UP/DOWN`    | Moves (selected) line/lines up or down
 | `CTRL+D`                     | Duplicate Line (no need to select line)
@@ -36,6 +36,6 @@
 | `CTRL+U,L`                   | Run All Tests from Solution
 | `CTRL+U,S`                   | Stop Unit Tests Execution
 | `CTRL+E,U`                   | Surround with Live Template
-
+| `SHIFT+ESC`                  | Hide Active Pane
 
 ## My Favourite Rider Postfix Templates
