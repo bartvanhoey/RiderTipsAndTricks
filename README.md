@@ -37,5 +37,7 @@
 | `CTRL+U,S`                   | Stop Unit Tests Execution
 | `CTRL+E,U`                   | Surround with Live Template
 | `SHIFT+ESC`                  | Hide Active Pane
+| `CTRL+ALT,T`                 | Surround with...
+| `SHIFT+F12`                  | Find Usages
 
 ## My Favourite Rider Postfix Templates
