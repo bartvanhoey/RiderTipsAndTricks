@@ -39,5 +39,6 @@
 | `SHIFT+ESC`                  | Hide Active Pane
 | `CTRL+ALT,T`                 | Surround with...
 | `SHIFT+F12`                  | Find Usages
+| `CTRL+SHIFT,P`               | Push commit
 
 ## My Favourite Rider Postfix Templates
