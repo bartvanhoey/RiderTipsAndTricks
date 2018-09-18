@@ -24,6 +24,7 @@
 | `CTRL+R,F`                   | Introduce Field...
 | `CTRL+R,R`                   | Rename
 | `CTRL+ALT+K`                 | Commit Changes
+| `CTRL+SHIFT,P`               | Push commit
 | `CTRL+SHIFT,K`               | Git Push
 | `CTRL+ALT+1`                 | Show/Hide Embedded Console Terminal
 | `CTRL+SHIFT+B`               | Build Solution
@@ -40,7 +41,7 @@
 | `SHIFT+ESC`                  | Hide Active Pane
 | `CTRL+ALT,T`                 | Surround with...
 | `SHIFT+F12`                  | Find Usages
-| `CTRL+SHIFT,P`               | Push commit
+
 
 
 ## My Favourite Rider Postfix Templates
