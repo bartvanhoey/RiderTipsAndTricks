@@ -2,7 +2,7 @@
 
 ## My Favourite Rider Shortcut Keys (Keymap Visual Studio)
 
-| Shortcut Key                 | Action                                         |          
+| Shortcut Key                 | Action                                         |
 |------------------------------|------------------------------------------------|
 | `ALT+SHIFT+ARROW UP/DOWN`    | Moves (selected) line/lines up or down
 | `CTRL+D`                     | Duplicate Line (no need to select line)
@@ -24,6 +24,7 @@
 | `CTRL+R,F`                   | Introduce Field...
 | `CTRL+R,R`                   | Rename
 | `CTRL+ALT+K`                 | Commit Changes
+| `CTRL+SHIFT,K`               | Git Push
 | `CTRL+ALT+1`                 | Show/Hide Embedded Console Terminal
 | `CTRL+SHIFT+B`               | Build Solution
 | `CTRL+R,I`                   | Inline Variable
@@ -38,5 +39,6 @@
 | `CTRL+E,U`                   | Surround with Live Template
 | `CTRL+ALT,T`                 | Surround with...
 | `SHIFT+F12`                  | Find Usages
+
 
 ## My Favourite Rider Postfix Templates
