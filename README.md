@@ -37,8 +37,10 @@
 | `CTRL+U,L`                   | Run All Tests from Solution
 | `CTRL+U,S`                   | Stop Unit Tests Execution
 | `CTRL+E,U`                   | Surround with Live Template
+| `SHIFT+ESC`                  | Hide Active Pane
 | `CTRL+ALT,T`                 | Surround with...
 | `SHIFT+F12`                  | Find Usages
+| `CTRL+SHIFT,P`               | Push commit
 
 
 ## My Favourite Rider Postfix Templates
