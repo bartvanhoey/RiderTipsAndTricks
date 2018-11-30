@@ -23,6 +23,7 @@
 | `CTRL+R,V`                   | Introduce Variable...
 | `CTRL+R,F`                   | Introduce Field...
 | `CTRL+R,R`                   | Rename
+| `CTRL+R,S`                   | Change Method Signature
 | `CTRL+ALT+K`                 | Commit Changes
 | `CTRL+SHIFT,P`               | Push commit
 | `CTRL+SHIFT,K`               | Git Push
