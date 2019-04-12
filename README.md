@@ -41,7 +41,6 @@
 | `SHIFT+ESC`                  | Hide Active Pane
 | `CTRL+ALT,T`                 | Surround with...
 | `SHIFT+F12`                  | Find Usages
-
-
+| `ALT+SHIFT+INSERT`           | Enable Column Selection ... edit multiple lines at once
 
 ## My Favourite Rider Postfix Templates
